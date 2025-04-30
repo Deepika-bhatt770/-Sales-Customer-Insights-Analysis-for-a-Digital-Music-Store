@@ -5,8 +5,7 @@ This project involves a comprehensive analysis of a digital music store's sales 
 
 The database contains information about customers, invoices, tracks, albums, genres, and artists. By examining purchasing patterns, geographic trends, and genre preferences, the project aims to provide a data-driven foundation for optimizing product offerings and promotional efforts.
 
-
-** Objectives:**
+Objectives:**
 Identify top-performing music genres, artists, and albums.
 Analyze customer behavior and spending patterns.
 Evaluate regional revenue distribution.
